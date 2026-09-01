@@ -53,11 +53,10 @@ It's built as a learning/practice project (Task 3) to reinforce:
 | **JSON** | Request/response data format |
 | *(Database — optional)* | In-memory array, or swap in MongoDB / MySQL / PostgreSQL as needed |
 
----
 
 ## 📂 Project Structure
 
-```text
+
 Task--3-using-Rest-API/
 │
 ├── src/
@@ -73,11 +72,11 @@ Task--3-using-Rest-API/
 ├── .env
 ├── .gitignore
 └── README.md
-```
+
+
 
 > Adjust this structure to match your actual folder layout — this reflects a typical Express project organized by routes/controllers/models.
 
----
 
 ## ⚙️ Installation & Setup
 
