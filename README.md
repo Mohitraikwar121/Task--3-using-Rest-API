@@ -27,8 +27,6 @@ It's built as a learning/practice project (Task 3) to reinforce:
 
 > Replace `<resource>` throughout this README with the actual resource name (e.g. `users`, `tasks`, `products`) once finalized.
 
----
-
 ## ✨ Features
 
 | Feature | Description |
