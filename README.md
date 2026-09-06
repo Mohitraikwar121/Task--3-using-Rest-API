@@ -13,8 +13,6 @@
 
 </div>
 
-
-
 ## 📌 Overview
 
 This project is a lightweight **REST API** built with **Node.js** and **Express**, created to demonstrate the core principles of RESTful design — handling **Create, Read, Update, and Delete (CRUD)** operations on a single resource through clean, predictable endpoints.
@@ -41,8 +39,6 @@ It's built as a learning/practice project (Task 3) to reinforce:
 | 🗑️ **Delete** | Remove a `<resource>` by ID |
 | 📦 **JSON Responses** | All endpoints return structured JSON |
 | ⚠️ **Error Handling** | Meaningful status codes and error messages for invalid requests |
-
----
 
 ## 🛠️ Technology Stack
 
@@ -73,8 +69,6 @@ Task--3-using-Rest-API/
 ├── .gitignore
 └── README.md
 
-
-
 > Adjust this structure to match your actual folder layout — this reflects a typical Express project organized by routes/controllers/models.
 
 
@@ -87,50 +81,19 @@ Task--3-using-Rest-API/
 - Git *(optional, for cloning the repository)*
 
 ### 1. Clone the Repository
-
-```bash
-git clone https://github.com/Mohitraikwar121/Task--3-using-Rest-API.git
-```
+l
 
 ### 2. Navigate to the Project
 
-```bash
-cd Task--3-using-Rest-API
-```
-
 ### 3. Install Dependencies
-
-```bash
-npm install
-```
 
 ### 4. Configure Environment Variables
 
-Create a `.env` file in the project root:
-
-```env
-PORT=5000
-```
-
 ### 5. Start the Server
-
-```bash
-node src/app.js
-```
 
 Or, if a dev script with auto-reload (e.g. `nodemon`) is configured in `package.json`:
 
-```bash
-npm run dev
-```
-
 The API will be available at:
-
-```text
-http://localhost:5000
-```
-
----
 
 ## 🔌 API Endpoints
 
@@ -148,41 +111,15 @@ http://localhost:5000
 
 ### Create a new item
 
-```bash
-curl -X POST http://localhost:5000/api/<resource> \
-  -H "Content-Type: application/json" \
-  -d '{"name": "Sample item"}'
-```
-
 ### Get all items
-
-```bash
-curl http://localhost:5000/api/<resource>
-```
 
 ### Get a single item
 
-```bash
-curl http://localhost:5000/api/<resource>/1
-```
-
 ### Update an item
-
-```bash
-curl -X PUT http://localhost:5000/api/<resource>/1 \
-  -H "Content-Type: application/json" \
-  -d '{"name": "Updated item"}'
-```
 
 ### Delete an item
 
-```bash
-curl -X DELETE http://localhost:5000/api/<resource>/1
-```
-
 > You can also test these endpoints using tools like **Postman** or **Thunder Client**.
-
----
 
 ## 🌟 Future Improvements
 
@@ -195,13 +132,10 @@ curl -X DELETE http://localhost:5000/api/<resource>/1
 - [ ] Add centralized error-handling middleware
 - [ ] Deploy to a hosting platform (Render, Railway, etc.)
 
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
 
-```text
 Fork Repository
       ↓
 Create a New Branch
@@ -213,9 +147,7 @@ Commit Your Changes
 Push the Branch
       ↓
 Open a Pull Request
-```
 
----
 
 ## 📄 License
 
