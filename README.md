@@ -64,13 +64,9 @@ Task--3-using-Rest-API/
 - Git *(optional, for cloning the repository)*
 
 ### 1. Clone the Repository
-
 ### 2. Navigate to the Project
-
 ### 3. Install Dependencies
-
 ### 4. Configure Environment Variables
-
 ### 5. Start the Server
 Or, if a dev script with auto-reload (e.g. `nodemon`) is configured in `package.json`:
 The API will be available at:
@@ -106,6 +102,7 @@ The API will be available at:
 - [ ] Add centralized error-handling middleware
 - [ ] Deploy to a hosting platform (Render, Railway, etc.)
 
+
 ## 🤝 Contributing
 Contributions are welcome!
 
@@ -124,6 +121,7 @@ Open a Pull Request
 
 ## 📄 License
 This project is developed for **educational and practice purposes**. A suitable open-source license can be added based on your requirements.
+
 ## 👨‍💻 Project Info
 | Property | Details |
 | --- | --- |
