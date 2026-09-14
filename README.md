@@ -56,7 +56,6 @@ Task--3-using-Rest-API/
 └── README.md
 > Adjust this structure to match your actual folder layout — this reflects a typical Express project organized by routes/controllers/models.
 
-
 ## ⚙️ Installation & Setup
 ### Prerequisites
 - [Node.js](https://nodejs.org/) (v16 or later recommended)
@@ -82,13 +81,9 @@ The API will be available at:
 
 ## 🧑‍💻 Usage & Example Requests
 ### Create a new item
-
 ### Get all items
-
 ### Get a single item
-
 ### Update an item
-
 ### Delete an item
 
 > You can also test these endpoints using tools like **Postman** or **Thunder Client**.
