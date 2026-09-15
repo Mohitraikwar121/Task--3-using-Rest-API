@@ -97,7 +97,6 @@ The API will be available at:
 - [ ] Add centralized error-handling middleware
 - [ ] Deploy to a hosting platform (Render, Railway, etc.)
 
-
 ## 🤝 Contributing
 Contributions are welcome!
 
@@ -112,7 +111,6 @@ Commit Your Changes
 Push the Branch
       ↓
 Open a Pull Request
-
 
 ## 📄 License
 This project is developed for **educational and practice purposes**. A suitable open-source license can be added based on your requirements.
