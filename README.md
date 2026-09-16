@@ -85,8 +85,8 @@ The API will be available at:
 ### Get a single item
 ### Update an item
 ### Delete an item
-
 > You can also test these endpoints using tools like **Postman** or **Thunder Client**.
+
 ## 🌟 Future Improvements
 - [ ] Connect to a persistent database (MongoDB / PostgreSQL)
 - [ ] Add input validation (e.g. with `express-validator` or `Joi`)
