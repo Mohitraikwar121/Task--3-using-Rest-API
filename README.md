@@ -7,7 +7,7 @@
 [![REST API](https://img.shields.io/badge/API-REST-blue)](#-api-endpoints)
 [![License](https://img.shields.io/badge/License-Educational-green)](#-license)
 [Overview](#-overview) • [Endpoints](#-api-endpoints) • [Setup](#-installation--setup) • [Usage](#-usage--example-requests) • [Roadmap](#-future-improvements)
-</div>
+</div> 
 
 ## 📌 Overview
 This project is a lightweight **REST API** built with **Node.js** and **Express**, created to demonstrate the core principles of RESTful design — handling **Create, Read, Update, and Delete (CRUD)** operations on a single resource through clean, predictable endpoints.
