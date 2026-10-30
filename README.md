@@ -1,4 +1,4 @@
-# 🔗 Task 3: RESTful API with Node.js & Express
+# 🔗 Task 3: RESTful API with Node.js & Express 
 
 A lightweight RESTful API built with **Node.js** and **Express.js** that implements full CRUD (Create, Read, Update, Delete) operations on a `tasks` resource, with consistent JSON responses, input validation, and proper HTTP status codes.
 
