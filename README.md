@@ -10,8 +10,6 @@ A lightweight RESTful API built with **Node.js** and **Express.js** that impleme
   <img src="https://img.shields.io/badge/Purpose-Educational-green?style=for-the-badge" alt="Educational Project" />
 </p>
 
----
-
 ## ⚡ Quick Start
 
 ```bash
@@ -22,8 +20,6 @@ npm start
 ```
 
 Then open **http://localhost:3000/api/tasks** in your browser or API client. You should see a JSON response.
-
----
 
 ## 📑 Table of Contents
 
@@ -43,8 +39,6 @@ Then open **http://localhost:3000/api/tasks** in your browser or API client. You
 - [License](#-license)
 - [Author](#-author)
 
----
-
 ## 📌 Overview
 
 This project is a hands-on implementation of a RESTful API. It exposes resource-oriented endpoints for managing tasks through standard HTTP methods, and it is designed to be easy to read, run, and extend.
@@ -58,8 +52,6 @@ This project is a hands-on implementation of a RESTful API. It exposes resource-
 - Use HTTP status codes and basic error handling correctly.
 - Lay the groundwork for database integration and a scalable backend.
 
----
-
 ## ✨ Features
 
 | Feature | Description |
@@ -71,8 +63,6 @@ This project is a hands-on implementation of a RESTful API. It exposes resource-
 | 📦 **JSON in, JSON out** | All requests and responses use `application/json`. |
 | 🛡️ **Validation & errors** | Invalid input and missing resources return clear error responses. |
 | 🔌 **RESTful routing** | Resource-based URLs with standard HTTP verbs. |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -86,7 +76,6 @@ This project is a hands-on implementation of a RESTful API. It exposes resource-
 
 > **Data storage:** Tasks are held in an **in-memory array**, so data resets whenever the server restarts. See the [Roadmap](#-roadmap) for persistent storage options such as MongoDB or PostgreSQL.
 
----
 
 ## 📂 Project Structure
 
