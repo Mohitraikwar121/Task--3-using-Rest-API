@@ -12,12 +12,10 @@ A lightweight RESTful API built with **Node.js** and **Express.js** that impleme
 
 ## ⚡ Quick Start
 
-```bash
 git clone https://github.com/Mohitraikwar121/Task--3-using-Rest-API.git
 cd Task--3-using-Rest-API
 npm install
 npm start
-```
 
 Then open **http://localhost:3000/api/tasks** in your browser or API client. You should see a JSON response.
 
@@ -81,7 +79,6 @@ This project is a hands-on implementation of a RESTful API. It exposes resource-
 
 <!-- TODO: Replace this tree with your actual structure if it differs. -->
 
-```text
 Task--3-using-Rest-API/
 ├── src/
 │   ├── routes/
@@ -96,7 +93,6 @@ Task--3-using-Rest-API/
 ├── package.json
 ├── package-lock.json
 └── README.md
-```
 
 | Path | Responsibility |
 |---|---|
